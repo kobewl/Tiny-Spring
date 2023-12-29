@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>tiny-Spring-01</module>
+        <module>tiny-Spring-02</module>
     </modules>
 
     <properties>

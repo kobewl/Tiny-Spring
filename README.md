@@ -22,7 +22,7 @@ Tiny-Spring 是一个为学习 Spring 框架而开发的项目，旨在提供一
 
 ## 如何使用
 
-详细的使用说明，请参阅我们的 [Wiki](https://github.com/yourusername/tiny-spring/wiki)。
+详细的使用说明，请参阅我们的 [Wiki](https://github.com/kobewl/Tiny-Spring/tree/master)。
 
 ## 学习资源
 
